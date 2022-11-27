@@ -1,0 +1,2 @@
+# z-repository
+buat belajar!!
